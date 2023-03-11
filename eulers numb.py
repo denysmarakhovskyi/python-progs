@@ -10,6 +10,6 @@ def e(prec):
         aprox += 1 / fact(n)
     return aprox
 
-print(e(10))      # 2.718282
+print(e(121))      # 2.718282
 print(e(100))      # 2.718282
 print(e(1000))      # 2.718282
